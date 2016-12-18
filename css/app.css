@@ -1,0 +1,18 @@
+body {
+  background-color: #0684a0;
+}
+label {
+  color: whitesmoke;
+}
+td {
+  background-color: white;
+  color: black;
+}
+.btn {
+  background-color: #08add1;
+  color: white;
+}
+.todo-table {
+  background-color: #963232;
+  color: white;
+}

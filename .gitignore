@@ -1,0 +1,12 @@
+# Temp files
+*.swp
+*.tmp
+*.bak
+*.css
+*.css.map
+
+# Dirs
+plugins
+platforms
+node_modules/
+www/

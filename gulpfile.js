@@ -11,6 +11,7 @@ gulp.task('copy-files', function() {
     return gulp.src([
     'src/components/**',
     'src/index.html',
+    'src/manifest.json',
     'src/js/**',
     'src/res/**'
     ],

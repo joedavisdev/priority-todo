@@ -1,8 +1,8 @@
 {
     "short_name": "Priority Todo",
     "name": "Priority Todo",
-    "background_color": "#0684a0",
-    "theme_color": "#0684a0",
+    "background_color": "#284B63",
+    "theme_color": "#284B63",
     "display": "standalone",
     "icons": [
         {
